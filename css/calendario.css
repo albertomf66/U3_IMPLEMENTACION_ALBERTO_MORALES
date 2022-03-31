@@ -1,0 +1,28 @@
+.botones
+{
+  height: 40px;
+  transition: all ease .2s;
+}
+
+
+.botones:hover
+{
+  height: 50px;
+  transition: all ease .2s;
+  background-color: #5B5353;  
+}
+
+.dia 
+{
+  height: 70px ;
+}
+
+.tabla
+{
+  border: solid 2px black;
+}
+
+td:hover
+{
+  background-color: #DCD9D9;
+}

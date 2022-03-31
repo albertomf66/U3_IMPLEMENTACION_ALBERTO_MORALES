@@ -1,0 +1,234 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	font-family: Barlow;
+	background: #E3E2E3;
+}
+
+
+/* ESTILOS PARA ICONO DE MENU */
+.iconos_menu{
+  margin-left: 10px;
+  margin-right: 10px; 
+  margin-bottom: 5px;
+  
+}
+
+
+/* ESTILOS DE VENTANA EMERGENTE (MODAL) DE INICIO DE SESION */
+/*  SE DA EL TAMAÑO AL TITULO DE INICIO DE SESIÓN DEL MODAL EMERGENTE */
+.tamanio_inicia{
+	font-size: 60px;
+	color: #5B2B82;
+}
+
+/* COLOR DE FONDO UNA DE LAS COLUMNAS DEL MODAL */
+.color1{
+	background: #ffff;
+}
+/* COLOR DE FONDO UNA DE LAS COLUMNAS DEL MODAL */
+.color2{
+	background: #ffff;
+}
+
+.estilos_input{
+	padding: 15px 10px; 
+
+}
+
+.separacion_input-sesion{
+	margin-top: 20px;
+}
+
+.estilos_label{
+	font-size: 25px;
+}
+
+
+.estilos_boton{
+	padding: 15px 20px;
+	width: 200px;
+}
+
+.Boton_cerrar{
+	
+	text-align: right;
+}
+
+/* END ESTILOS DE VENTANA EMERGENTE (MODAL) DE INICIO DE SESION */
+
+
+
+
+/* ESTILOS ALUMNOS PHP  */
+.notificacion_tam{
+	font-size: 15px;
+	padding: 5px 10px;
+
+}
+
+.circular{
+	border-radius: 50%;
+	background: #F8F9FA;
+	margin-left: 10px;
+	margin-right: 30px;
+}
+
+.perfil{
+		background: #F8F9FA;
+		color: #545353;
+}
+
+.largo_nav{
+	height:   17px;
+}
+
+
+.menu_modulos
+{
+	background: #AB02C9   ;
+	
+}
+
+.separacion_modulos{
+	font-size: 5.5vw;
+	margin-top: 12px;
+	padding-top: 15px;
+}
+
+
+.separacion_modulos2{
+	font-size: 4.5vw;
+	margin-top: 45px;
+	padding-top: 15px;
+}
+
+
+.color5{
+	background: #F7323F  ;
+}
+
+.pad-movil{
+	padding-top: 15px;
+}
+
+.tam-mov{
+	font-size: 70%;
+	margin-top: 5px;
+}
+
+
+.centro{
+  background: white;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+
+.margeninterno{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+.estilos_card{
+	margin-bottom: 20px;
+	margin-left: 10px;
+	border-color: black;
+    border-width: 3px;
+}
+
+
+
+
+
+
+/* ESTILOS PARA OCULTAR O MOSTRAR  */
+
+.OcultarElemento{
+	display: none;
+}
+
+.MostrarElemento{
+	display: block;
+}
+/* ESTILOS PARA VALIDACION FORMUALRIOS */
+
+.correcto{
+	border-color: green;
+	border-width: 3px;
+	border-radius: 32px;
+}
+
+.incorrecto{
+	border-color: red;
+	border-radius: 10px;
+	border-width: 3px;
+}
+
+
+
+.margeninterno2{
+	padding-top: 20px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+}
+
+
+.font_frase
+{
+	padding-bottom: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: 'Abel', sans-serif;
+}
+
+.centro2{
+  background: white;
+  margin-left: 2%;
+  margin-top: 1%;
+  border-radius: 20px;
+  text-align: justify;
+}
+
+.circularperfil2{
+	border-radius: 50%;
+	background: #F8F9FA;
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 10px;
+}
+
+
+.circularperfil{
+	border-radius: 50%;
+	background: #F8F9FA;
+
+	margin-left: 10px;
+	margin-right: 30px;
+
+}
+
+
+.nombre_espacio{
+	margin-top: -20	px;
+}
+
+
+
+.pic_cambio:hover{
+	background-color: #2C2C2C;
+}
+
+
+.pic_cambio img:hover{
+	width: 115px;
+	height: 115px;
+	transition: ease all .3s;
+}
